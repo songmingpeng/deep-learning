@@ -1,7 +1,7 @@
 # Activation function（激活函数）
 
 ## 定义：In artificial neural networks, the activation function of a node defines the output of that node, or "neuron," given an input or set of inputs.
-### 激活函数在一个神经元当中跟随在 f(x) = wx + b 函数之后，用来加入一些 <非线性因素>。 If we do not apply a Activation function then the output signal would simply be a simple linear function.A linear function is just a polynomial of one degree.
+### 激活函数在一个神经元当中跟随在 f(x) = wx + b 函数之后，用来加入一些 **非线性因素**。 If we do not apply a Activation function then the output signal would simply be a simple linear function.A linear function is just a polynomial of one degree.
 
 ## 类型
 ![image](https://github.com/songmingpeng/deep-learning/blob/master/Images/activation.png)
